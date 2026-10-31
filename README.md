@@ -1,0 +1,2 @@
+# geopolitico
+juego geopolitico
